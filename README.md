@@ -32,7 +32,8 @@ Find the greatest product of five consecutive digits in the 1000-digit number.
 
 Write a class in **challenge_8.js** named "**LargestProduct**" that accepts a single argument **n**,  
 where **n** is the 1000 digit number.  
-Write an instance method named "**getLargestProduct**" that returns the position of the largest product of 5 consecutive numbers.
+Write an instance method named "**getLargestProductPosition**" that returns the position of the largest product of 5 consecutive numbers in **n**.  
+Write an instance method named "**getLargestProduct**" that returns the value of the largest product of 5 consecutive numbers in **n**.  
 
 There are **0** tests, write your own tests to prove your algorithm.
 
