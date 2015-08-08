@@ -2,20 +2,20 @@
   "name": "challenge-largest-product-in-a-series",
   "version": "1.0.0",
   "description": "Challenge 8 ===========",
-  "main": "challenge_8.js",
+  "main": "largestProduct.js",
   "scripts": {
     "test": "mocha --watch --bail"
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/devleague/Challenge-Largest-product-in-a-series.git"
+    "url": "https://github.com/devleague/challenge-largest-product-in-a-series.git"
   },
   "author": "",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/devleague/Challenge-Largest-product-in-a-series/issues"
+    "url": "https://github.com/devleague/challenge-largest-product-in-a-series/issues"
   },
-  "homepage": "https://github.com/devleague/Challenge-Largest-product-in-a-series",
+  "homepage": "https://github.com/devleague/challenge-largest-product-in-a-series",
   "dependencies": {
     "chai": "^3.2.0",
     "mocha": "^2.2.5"
