@@ -15,5 +15,10 @@
   "bugs": {
     "url": "https://github.com/devleague/Challenge-Largest-product-in-a-series/issues"
   },
-  "homepage": "https://github.com/devleague/Challenge-Largest-product-in-a-series"
+  "homepage": "https://github.com/devleague/Challenge-Largest-product-in-a-series",
+  "dependencies": {
+    "chai": "^3.2.0",
+    "gulp": "^3.9.0",
+    "mocha": "^2.2.5"
+  }
 }
