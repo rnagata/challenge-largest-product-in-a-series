@@ -4,7 +4,7 @@
   "description": "Challenge 8 ===========",
   "main": "challenge_8.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "test": "mocha --watch --bail"
   },
   "repository": {
     "type": "git",
