@@ -19,5 +19,3 @@ Find the greatest product of five consecutive digits in the 1000-digit number.
 ## Getting Started
 1. `npm install` to get dependencies
 2. `npm test` to run the tests
-
-There are **0** tests, write your own tests to prove your algorithm. Use Chai as your assertion library.
